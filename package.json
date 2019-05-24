@@ -1,0 +1,46 @@
+{
+  "name": "@gh-conf/gh-conf-parse",
+  "version": "1.0.0",
+  "description": "Parser to parse details from github config",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "dependencies": {
+    "@gh-conf/gh-conf-constants": "^1.0.4",
+    "iniparser": "^1.0.5",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "eslint": "^5.11.1",
+    "eslint-config-strongloop": "^2.1.0"
+  },
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "node_modules/mocha/bin/mocha tests/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gh-conf/gh-conf-parse.git"
+  },
+  "keywords": [
+    "github-config",
+    "config",
+    "gh-conf",
+    "parse",
+    "username",
+    "repository",
+    "github",
+    "url"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gh-conf/gh-conf-parse/issues"
+  },
+  "homepage": "https://github.com/gh-conf/gh-conf-parse#readme"
+}
