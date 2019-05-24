@@ -5,7 +5,7 @@ const { ParseConfig, UserRepo } = require('../index');
 
 describe('validate parse config', () => {
   it('should return correct config', () => {
-    expect(ParseConfig()['remote "origin"'].url).to.equal('https://github.com/gh-conf/gh-conf-parse');
+    expect(ParseConfig()['remote "origin"'].url).to.equal('https://github.com/gh-conf/gh-conf-parse.git');
   });
 });
 
