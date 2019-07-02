@@ -6,6 +6,7 @@
 [![NPM Downloads](https://img.shields.io/npm/dt/@gh-conf/gh-conf-parse.svg)](https://www.npmjs.com/package/@gh-conf/gh-conf-parse)
 [![NPM Version](https://img.shields.io/npm/v/@gh-conf/gh-conf-parse.svg)](https://www.npmjs.com/package/@gh-conf/gh-conf-parse)
 [![Contributors](https://img.shields.io/github/contributors/gh-conf/gh-conf-parse.svg)](https://github.com/gh-conf/gh-conf-parse/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/gh-conf/gh-conf-parse.svg)](https://github.com/gh-conf/gh-conf-parse/commits/master)
 
 Parser for parsing information from github config file
 
