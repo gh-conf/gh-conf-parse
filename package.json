@@ -10,7 +10,8 @@
   "dependencies": {
     "@gh-conf/gh-conf-constants": "^1.0.4",
     "iniparser": "^1.0.5",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.11",
+    "remove-trailing-slash": "^0.1.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
