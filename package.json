@@ -1,6 +1,6 @@
 {
   "name": "@gh-conf/gh-conf-parse",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Parser to parse details from github config",
   "main": "index.js",
   "directories": {
