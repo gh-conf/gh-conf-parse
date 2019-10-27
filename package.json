@@ -1,12 +1,12 @@
 {
   "name": "@gh-conf/gh-conf-parse",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Parser to parse details from github config",
   "main": "index.js",
-  "directories": {
-    "lib": "lib",
-    "test": "tests"
-  },
+  "files": [
+    "index.js",
+    "lib/"
+  ],
   "dependencies": {
     "@gh-conf/gh-conf-constants": "^1.0.4",
     "iniparser": "^1.0.5",
